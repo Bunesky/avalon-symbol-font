@@ -13,7 +13,6 @@ Uppercase = symbolic system
 Write normally using lowercase letters.  
 Use uppercase to introduce symbolic characters.
 
-Both systems can be combined in the same text.
 
 ## License
 

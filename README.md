@@ -20,7 +20,7 @@ Both systems can be combined in the same text.
 
 SIL Open Font License (OFL)
 
-## Context (optional)
+## Context
 
 Originally created as part of the Avalon 3D world prototype.
 

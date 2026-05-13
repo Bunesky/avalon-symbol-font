@@ -7,7 +7,7 @@ Uppercase = symbolic system
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
 ## Usage
 

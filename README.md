@@ -23,4 +23,5 @@ SIL Open Font License (OFL)
 
 Originally created as part of the Avalon 3D world prototype.
 
-https://sites.google.com/view/bune-3d
+Avalon Repository:  
+https://github.com/Bunesky/AVALON-3D-World-Prototype

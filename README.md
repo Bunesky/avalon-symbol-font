@@ -1,6 +1,5 @@
-# Avalon Symbol
-
-Experimental font by @bunesky.
+Experimental font and symbolic script by @bunesky.
+A dual writing system: readable text + encoded symbols.
 
 Lowercase = readable text  
 Uppercase = symbolic system  

@@ -1,4 +1,4 @@
-Experimental font and symbolic script by @bunesky.
+Experimental font and symbolic script.
 A dual writing system: readable text + encoded symbols.
 
 Lowercase = readable text  

@@ -24,3 +24,9 @@ Originally created as part of the Avalon 3D world prototype.
 
 Avalon Repository:  
 https://github.com/Bunesky/AVALON-3D-World-Prototype
+
+Live Audio App:
+https://bunesky.github.io/avalon-symbol-audio/
+
+Source Code:
+https://github.com/Bunesky/avalon-symbol-audio

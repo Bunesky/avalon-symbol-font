@@ -17,7 +17,7 @@ Use uppercase to introduce symbolic characters.
 SIL Open Font License (OFL)
 
 ## Context
-Originally created for the Avalon 3D world prototype, this font is designed as an independent symbolic writing system. It can be used in any project that requires a custom script, conlang, faction language or encoded visual system.
+Originally created for the Avalon 3D world prototype, this font is designed as an independent symbolic writing system. 
 
 ## Related Projects
 Live Audio App (Symbolic Language):  

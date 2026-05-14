@@ -6,7 +6,8 @@ Experimental font and symbolic script. A dual writing system: readable text + en
 - Uppercase = symbolic system  
 
 ## Preview
-Preview
+
+![Preview](Preview.png)
 
 ## Usage
 Write normally using lowercase letters.  

@@ -26,8 +26,8 @@ https://bunesky.github.io/avalon-symbol-audio/
 Audio App (Source):  
 https://github.com/Bunesky/avalon-symbol-audio
 
-Avalon Repository:  
-https://github.com/Bunesky/AVALON-3D-World-Prototype
+AVALON 3D World Prototype:  
+https://bunesky.github.io/AVALON-3D-World-Prototype/
 
 ## Contact
 Bluesky:  

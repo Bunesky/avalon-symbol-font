@@ -20,7 +20,7 @@ SIL Open Font License (OFL)
 Originally created for the Avalon 3D world prototype, this font is designed as an independent symbolic writing system. 
 
 ## Related Projects
-Live Audio App (Symbolic Language):  
+Web Audio Language App:  
 https://bunesky.github.io/avalon-symbol-audio/
 
 Audio App (Source):  
